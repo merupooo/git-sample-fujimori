@@ -1,2 +1,1 @@
-sae fujimori
-
+git diff no kakuninn
