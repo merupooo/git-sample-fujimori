@@ -1,3 +1,11 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 fujimori
 
+<<<<<<< HEAD
+=======
+
+
+
+rensyuutyuu
+
+>>>>>>> develop
